@@ -13,6 +13,7 @@
 # limitations under the License.
 .idea
 /.idea/
-.logs
-/.logs/
+logs
+/logs/
+/config
 
